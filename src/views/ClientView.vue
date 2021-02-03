@@ -3,7 +3,7 @@
     <Register />
     <div class="container bordered" style="max-width: 500px;">
         <div class="container text-center" style="max-width: 300px;">
-            Client
+            კლიენტის რეგისტრაცია მიუწვდომელია ამ მომენტისთვის
         </div>
     </div>    
 </div>
